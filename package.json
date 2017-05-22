@@ -1,0 +1,15 @@
+{
+  "name": "soa_app",
+  "version": "1.0.0",
+  "description": "an soa app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "soa team",
+  "license": "ISC",
+  "dependencies": {
+    "google-auth-library": "^0.10.0",
+    "googleapis": "^19.0.0"
+  }
+}
